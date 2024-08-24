@@ -1,7 +1,7 @@
 -Hi! We are THKS　(｀・ω・´)
 - 私たちはev3gユーザーの助けになるようなコンテンツを提供しています。
 - We provide content that will help ev3g users.
-- https://buy.stripe.com/test_14k14m4HZ9epbnO5kk
+- ***
 - The funds will be used for THKS' operating expenses.
 
 <!---
