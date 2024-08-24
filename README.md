@@ -2,7 +2,7 @@
 - 私たちはev3gユーザーの助けになるようなコンテンツを提供しています。
 - We provide content that will help ev3g users.
 - ***
-- //The funds will be used for THKS' operating expenses.
+- The funds will be used for THKS' operating expenses.
 
 <!---
 THKS-LEGO/THKS-LEGO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
